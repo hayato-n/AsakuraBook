@@ -1,0 +1,2 @@
+from models.LinearRegression import PolyBaseFunction, LinearRegression
+from models.QuantileRegression import QuantileRegression
