@@ -17,3 +17,10 @@
 
 しかし，本サイトのモデル群はこれらのパッケージに依存せずに実装してありますので，
 どのようにすれば推定できるのか気になる場合は参考になると思います．
+
+## 参考
+
+- [ゼロから作るDeep Learning―Pythonで学ぶディープラーニングの理論と実装](https://www.oreilly.co.jp/books/9784873117584/)
+  - 斎藤 康毅, オライリー・ジャパン
+- [Chainer](https://github.com/chainer/chainer)
+  - 開発を修了してPyTorchに移行するとのことですので，これから使う場合はPyTorchかTensorFlowを推奨します．
